@@ -1,0 +1,6 @@
+K-Jocker Owner AI Workspace
+=============================
+Owner: Kimsokun
+Status: Active Sandboxed Environment
+Inference: Local llama.cpp
+Protected: Yes

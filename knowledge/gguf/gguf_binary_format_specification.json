@@ -1,0 +1,13 @@
+{
+  "topic": "GGUF Binary Format Specification",
+  "category": "gguf",
+  "content": "GGUF is a binary format designed for storing models for inference with llama.cpp. Magic bytes are 0x46554747 (GGUF), with version 3 supporting mmap, tensor info, and arbitrary key-value metadata.",
+  "source": "https://github.com/ggerganov/ggml/blob/master/docs/gguf.md",
+  "source_type": "SPEC",
+  "license": "MIT",
+  "version": "v3",
+  "created_at": 1789130550.58514,
+  "updated_at": 1789130550.58514,
+  "confidence": "HIGH",
+  "verification_status": "VERIFIED"
+}

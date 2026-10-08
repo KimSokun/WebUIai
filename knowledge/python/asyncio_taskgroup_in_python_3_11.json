@@ -1,0 +1,13 @@
+{
+  "topic": "AsyncIO TaskGroup in Python 3.11",
+  "category": "python",
+  "content": "TaskGroup provides a safe way to manage concurrent tasks with exception groups.",
+  "source": "https://docs.python.org/3/library/asyncio-task.html",
+  "source_type": "DOCS",
+  "license": "Open",
+  "version": "3.11+",
+  "created_at": 1791456331.1943967,
+  "updated_at": 1791456331.1943967,
+  "confidence": "HIGH",
+  "verification_status": "VERIFIED"
+}

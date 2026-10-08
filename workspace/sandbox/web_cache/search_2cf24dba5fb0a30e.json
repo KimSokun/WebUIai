@@ -1,0 +1,32 @@
+{
+  "query": "hello",
+  "timestamp": 1789187172,
+  "results_count": 5,
+  "results": [
+    {
+      "title": "Adele - Hello (Official Music Video) - YouTube",
+      "snippet": "Listen to \"Easy On Me\" here: http://Adele.lnk.to/EOMPre-order Adele's new album \"30\" before its release on November 19: https://www.adele.comShop the \"Adele...",
+      "link": "https://www.youtube.com/watch?v=YQHsXMglC9A"
+    },
+    {
+      "title": "HELLO! - Daily royal, celebrity, fashion, beauty & lifestyle news",
+      "snippet": "HELLO! brings you the latest celebrity & royal news from the UK & around the world, magazine exclusives, fashion, beauty, lifestyle news, celeb babies, weddings, pregnancies and more!",
+      "link": "https://www.hellomagazine.com/"
+    },
+    {
+      "title": "Adele - Hello Official Music Video - YouTube",
+      "snippet": "Music video by Adele performingHello. ℗ 2015 XL Recordings Ltd",
+      "link": "https://www.youtube.com/watch?v=bim9MeckD-s"
+    },
+    {
+      "title": "Hello (Adele song) - Wikipedia",
+      "snippet": "\"Hello\" is a song recorded by British singer-songwriter Adele, released on 23 October 2015 by XL Recordings as the lead single from her third studio album, 25 (2015). Written by Adele and the album's producer, Greg Kurstin, \"Hello\" is a piano ballad with soul influences (including guitar) and lyrics that discuss themes of nostalgia and regret.",
+      "link": "https://en.wikipedia.org/wiki/Hello_(Adele_song)"
+    },
+    {
+      "title": "Hello (Official Music Video) - YouTube Music",
+      "snippet": "Playing fromHello(Official Music Video) Mix SaveHello(Official Music Video) Adele",
+      "link": "https://music.youtube.com/watch?v=YQHsXMglC9A"
+    }
+  ]
+}

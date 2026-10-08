@@ -1,0 +1,32 @@
+{
+  "query": "--- File: Master Prompt — Runtime Integration Upgrade.md ---\n# MASTER PROMPT — LOCAL GGUF AGENT RUNTIME INTEGRATION UPGR",
+  "timestamp": 1789194354,
+  "results_count": 5,
+  "results": [
+    {
+      "title": "GGUF Runtime - GgufRuntime.com",
+      "snippet": "What exists today Use the availableruntimefoundation without promoting roadmap intent into fact. The two columns deliberately separate public package capability from UI and compatibility claims that still require implementation or retained evidence.",
+      "link": "https://ggufruntime.com/"
+    },
+    {
+      "title": "agent-runtime-vllm-engine/gguf-py at master · SiriusPaul ... - GitHub",
+      "snippet": "llama part for OSH-2026 project. Contribute to SiriusPaul/agent-runtime-vllm-engine development by creating an account on GitHub.",
+      "link": "https://github.com/SiriusPaul/agent-runtime-vllm-engine/tree/master/gguf-py"
+    },
+    {
+      "title": "GGUF Format Explained | The Prompt Bench",
+      "snippet": "Thefileformat mostlocal-LLMruntimesconsume, why it exists, and what its naming convention (Q4_K_M, Q6_K, IQ4_XS) actually means.",
+      "link": "https://thepromptbench.com/local-models/gguf-format-explained/"
+    },
+    {
+      "title": "LLM Runtime (GGUF / llama.cpp) | jacxas/cashprompt-backend | DeepWiki",
+      "snippet": "The LLMRuntimeis a core component of the Inference Nucleus layer, responsible for the execution of Large Language Models (LLMs) using theGGUFformat. It integrates a native implementation of llama.cpp to provide high-performance,local-first inference with support for various quantization levels and hardware acceleration backends.",
+      "link": "https://deepwiki.com/jacxas/cashprompt-backend/5.1-llm-runtime-(gguf-llama.cpp)"
+    },
+    {
+      "title": "GGUF Loader - Local AI Inference Engine | Run GGUF Models Offline with ...",
+      "snippet": "GGUFLoader 🎉 NEW: Agentic Mode Now Available! Transform yourlocalAI into an autonomous coding assistant. Run popular open-source AI models like Mistral, LLaMA, and DeepSeek on Windows, macOS, or Linux. No Python, no command line, and no internet required. Just click and run. Now with Agentic Mode for autonomousfilemanagement and coding tasks.",
+      "link": "https://ggufloader.github.io/"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "stt_enabled": true,
+  "tts_enabled": true,
+  "auto_speak": true,
+  "language": "km-KH",
+  "fallback_language": "en-US",
+  "rate": 0.95,
+  "pitch": 1.0,
+  "volume": 0.8
+}

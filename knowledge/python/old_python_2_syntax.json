@@ -1,0 +1,13 @@
+{
+  "topic": "Old Python 2 syntax",
+  "category": "python",
+  "content": "print statement without parentheses",
+  "source": "historical archive",
+  "source_type": "COMMUNITY",
+  "license": "Open",
+  "version": "2.7",
+  "created_at": 1791456331.212531,
+  "updated_at": 1791456331.2131596,
+  "confidence": "HIGH",
+  "verification_status": "OUTDATED"
+}

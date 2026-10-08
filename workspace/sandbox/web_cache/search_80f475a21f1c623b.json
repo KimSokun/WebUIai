@@ -1,0 +1,32 @@
+{
+  "query": "# Basic AI Identity Test\n\nAnswer these questions briefly:\n\n1. What is your name?\n2. What model are you?\n3. Who created y",
+  "timestamp": 1789189497,
+  "results_count": 5,
+  "results": [
+    {
+      "title": "AI Viva Questions and Answers Guide - Scribd",
+      "snippet": "The document provides a comprehensive set of oral practical (viva)questionsandanswersfor the subject of Artificial Intelligence, covering two modules: Introduction toAIand Intelligent Agents. Each module includesquestionsthat address definitions, explanations, classifications, types, applications, advantages, and disadvantages of variousAIconcepts. Thequestionsare structured to ...",
+      "link": "https://www.scribd.com/document/854923611/Artificial-Intelligence-Viva-Questions-and-Answers"
+    },
+    {
+      "title": "Why Asking \"What Model Are You?\"... | Chatbox AI User Guide",
+      "snippet": "Theseare not isolated cases — they are an inherent characteristic of all large language models. Why This Happens1.ModelNamesAre Assigned After Training Models are trained on vast amounts of text data, but this training data does not contain the model's ownidentityinformation.Namesand version numbers (like \"GPT-4o\", \"Claude Sonnet 4\", \"Gemini 3 Pro\") are assigned by the development ...",
+      "link": "https://chatboxai.app/en/guide/faq/model-identity"
+    },
+    {
+      "title": "AI and Identity - Basics and FAQs - LinkedIn",
+      "snippet": "Purpose of this article is to coverbasicsofIdentityand Access Management (IAM) in the world ofAI. This will help you understand the key technologies and controls involved to manageAIAgents ...",
+      "link": "https://www.linkedin.com/pulse/ai-identity-basics-faqs-tinu-bansal-137tc"
+    },
+    {
+      "title": "Basics of AI, Plain-Language AI Reference",
+      "snippet": "A neutral, source-verified encyclopedia ofAIconcepts in plain language, for people who want to understandAIwithout learning to code.",
+      "link": "https://basicsof.ai/"
+    },
+    {
+      "title": "AI fundamentals - OpenAI",
+      "snippet": "Learn whatAIis, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
+      "link": "https://openai.com/academy/what-is-ai/"
+    }
+  ]
+}

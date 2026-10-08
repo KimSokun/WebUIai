@@ -1,0 +1,13 @@
+{
+  "topic": "Khmer Technical Terminology Core Glossary",
+  "category": "khmer",
+  "content": "Official dual-term mappings: API (អេភីអាយ / API), backend (ផ្នែកខាងក្រោយ / Backend), frontend (ផ្នែកខាងមុខ / Frontend), database (មូលដ្ឋានទិន្នន័យ / Database), runtime (បរិស្ថានប្រតិបត្តិការ / Runtime), dependency (ភាពពឹងផ្អែក / Dependency), framework (ក្របខណ្ឌ / Framework), repository (ឃ្លាំងកូដ / Repository), model (ម៉ូដែល / Model), inference (ការសន្និដ្ឋាន / Inference).",
+  "source": "K-Jocker Official Khmer Engineering Standard",
+  "source_type": "DOCS",
+  "license": "Owner Internal",
+  "version": "1.0",
+  "created_at": 1789130550.58514,
+  "updated_at": 1789130550.58514,
+  "confidence": "HIGH",
+  "verification_status": "VERIFIED"
+}

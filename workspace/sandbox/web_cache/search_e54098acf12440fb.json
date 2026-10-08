@@ -1,0 +1,32 @@
+{
+  "query": "You are K-Jocker 1.5Flash.\n\nAnswer the following questions naturally and correctly.\n\n1. What is Python?\n2. What is the d",
+  "timestamp": 1789132535,
+  "results_count": 5,
+  "results": [
+    {
+      "title": "Python (programming language) - Wikipedia",
+      "snippet": "Pythonisa high-level, general-purpose programming language that emphasizes code readability, simplicity, and ease-of-writing with the use of significant indentation, [38] an extensive (\"batteries-included\") standard library, and garbage collection.Pythonsupports multiple programming paradigms but with an emphasis on object-oriented programming and dynamic typing. Guido van Rossum began ...",
+      "link": "https://en.wikipedia.org/wiki/Python_(programming_language)"
+    },
+    {
+      "title": "Python Tutorial - GeeksforGeeks",
+      "snippet": "InterviewQuestionsandPractice Problems This section provides a collection of commonly askedPythoninterviewquestionsandpractice problems to help you prepare for technical interviews and improve your coding skills. InterviewQuestionsandAnswersCoding Problems ThisPythontutorial is updated based on latestPython3.13.13 version.",
+      "link": "https://www.geeksforgeeks.org/python/python-programming-language-tutorial/"
+    },
+    {
+      "title": "Python Crash Course - GeeksforGeeks",
+      "snippet": "Ifyouareaware of programming languages and ready to unlock the power ofPython, enter the world of programming with this freePythoncrash course. This crash course onPythonisdesigned for beginners to masterPython'sfundamentals in record time!",
+      "link": "https://www.geeksforgeeks.org/python/python-crash-course/"
+    },
+    {
+      "title": "Python Tutorial - W3Schools",
+      "snippet": "Pythonisa popular programming language.Pythoncan be used on a server to create web applications.Pythoniseasy to learn - You will enjoy it!",
+      "link": "https://www.w3schools.com/python/"
+    },
+    {
+      "title": "Google",
+      "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+      "link": "https://answer.google.com/"
+    }
+  ]
+}

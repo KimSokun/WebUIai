@@ -1,0 +1,32 @@
+{
+  "query": "the latest price of Bitcoin today",
+  "timestamp": 1791456305,
+  "results_count": 5,
+  "results": [
+    {
+      "title": "Bitcoin price today, BTC to USD live price, marketcap and chart - CoinDesk",
+      "snippet": "LiveBitcoinpricemovements from all markets and BTC market cap, use our charts and see when there is an opportunity to buy or sell.",
+      "link": "https://www.coindesk.com/price/bitcoin"
+    },
+    {
+      "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+      "snippet": "TheliveBitcoinpricetodayis $83,036.79 USD with a 24-hour trading volume of $33,723,375,459.85 USD. We update our BTC to USDpricein real-time.",
+      "link": "https://coinmarketcap.com/currencies/bitcoin/"
+    },
+    {
+      "title": "Bitcoin Price (BTC/USD) Today | Live Price, Market Cap & Chart",
+      "snippet": "PriceofBitcoinTodayin USD The liveBitcoinpricetodayis $82,727.92 USD. Track thelatestBTC to USDprice, 24-hourpricemovement, market capitalization and trading volume in real time.Bitcoinpricehas changed by -1.33% over the past 24 hours, with a circulating supply of 20.1M.",
+      "link": "https://www.binance.com/en/price/bitcoin"
+    },
+    {
+      "title": "Bitcoin Price Today | BTC Live Price, Chart & Market Cap",
+      "snippet": "OKX United States - Oct 8, 2026 - The livepriceofBitcoinis $82,823.6. BTCpricehas decreased by 0.72% in 24hrs, with a market cap of $1.66T.",
+      "link": "https://www.okx.com/en-us/price/bitcoin-btc"
+    },
+    {
+      "title": "Bitcoin Price Today - Live BTC Price Chart | Bitcoin.org",
+      "snippet": "See the currentBitcoinprice, explore the BTCpricechart in multiple currencies, and convertbitcoinand satoshis using independent market data.",
+      "link": "https://bitcoin.org/price/"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "query": "google any-to-any multimodal model huggingface",
+  "timestamp": 1789192627,
+  "results_count": 5,
+  "results": [
+    {
+      "title": "Foundation model",
+      "snippet": "artificial intelligence, a foundationmodel(FM), also known as large xmodel(LxM, where \"x\" is a variable representinganytext, image, sound, etc.), is a",
+      "link": "https://en.wikipedia.org/wiki/Foundation_model"
+    },
+    {
+      "title": "Qwen",
+      "snippet": "push by releasing new open-sourcemodels, text-to-video\". Reuters. \"Qwen/Qwen3-VL-2B-Instruct · Hugging Face\".huggingface.co. 31 December 2025. Retrieved",
+      "link": "https://en.wikipedia.org/wiki/Qwen"
+    },
+    {
+      "title": "Transformer (deep learning)",
+      "snippet": "Transfer Learning with a Unified Text-to-Text Transformer\". arXiv:1910.10683 [cs.LG]. \"Masked languagemodeling\".huggingface.co. Archived from the original",
+      "link": "https://en.wikipedia.org/wiki/Transformer_(deep_learning)"
+    },
+    {
+      "title": "Language model benchmark",
+      "snippet": "WebVoyager: 643multimodaltasks based on 15 popular websites. Evaluation is by screenshotting the action sequence and asking a vision languagemodeltojudge.",
+      "link": "https://en.wikipedia.org/wiki/Language_model_benchmark"
+    },
+    {
+      "title": "Stable Diffusion",
+      "snippet": "model\". Ars Technica. Archived from the original on August 21, 2023. Retrieved August 21, 2023. \"hakurei/waifu-diffusion · Hugging Face\".huggingface",
+      "link": "https://en.wikipedia.org/wiki/Stable_Diffusion"
+    }
+  ]
+}

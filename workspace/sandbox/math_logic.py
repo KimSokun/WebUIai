@@ -1,0 +1,1 @@
+x = 10\ny = 5\nif x > y:\n    print("A")\nelse:\n    print("B")
